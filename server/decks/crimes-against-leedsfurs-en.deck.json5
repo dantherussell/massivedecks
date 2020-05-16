@@ -168,8 +168,9 @@
 		[["What could pawsibly go wrong with ",{},"?"]],
 		[["The theme for next year's con is ",{}]],
 		[["What time is it Mr Wolf? It's ",{}," time!"]],
-		[["Why is Dexter handcuffed to a ",{},"?"]],
-		[["The worst furcon is ",{}]]
+		[["Why is Dexter handcuffed to",{},"?"]],
+		[["The worst furcon is ",{}]],
+		[["Fox Amoore & Pepper Coyote's latest album is titled,{}"]]
 	],
 	"responses": [
 		"THAT fur",
@@ -190,7 +191,6 @@
 		"Fox",
 		"Fursuit full of bees",
 		"Gay pride flag",
-		"Green hedgehog",
 		"Gregg's sausage and bean melt",
 		"Horse with a dog cock and a dog with a horse cock",
 		"Lynx",
@@ -216,8 +216,6 @@
 		"AA Battery Controlled Telescopic Knife",
 		"Adolf Kitler",
 		"Aggressive dabbing",
-		"Alkali Bismuth",
-		"Alkali's Tequila",
 		"Out of tune piano",
 		"Untitled message just saying 'hi'",
 		"Anal prolapse",
@@ -286,6 +284,7 @@
 		"Dead orphans stuffed into a fursuit",
 		"Dexta",
 		"Dexter",
+		"Dick",
 		"Dick Money House",
 		"Diggy Diggy Hole",
 		"Doctor Who's third nipple",
@@ -496,6 +495,11 @@
 		"Failed video game mascot",
 		"Furcon with no Internet connection",
 		"Free Wi-Fi",
-		"Smelly Sneps"
+		"Smelly Sneps",
+		"Red Rocket",
+		"World on paws",
+		"Fursuit from 1993",
+		"Molesting Uncle Kage's Wine",
+		"Quietly sitting in the corner pretending you don't exist"
 	]
 }
