@@ -3,6 +3,8 @@
 // Custom cardset made up of contributions from various members of LeedsFurs
 {
   name: "Crimes Against LeedsFurs",
+  language: "en",
+  author: "LeedsFurs",
   "calls": [
 		[["#",{}," - LeedsFurs Approved!"]],
 		[[{}," - what can't they do?"]],
