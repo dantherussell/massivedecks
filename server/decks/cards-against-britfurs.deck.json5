@@ -1,0 +1,1865 @@
+// Cards Against Humanity, https://cardsagainsthumanity.com/
+// Concept used under a Creative Commons BY-NC-SA 2.0 license, https://creativecommons.org/licenses/by-nc-sa/2.0/
+// Custom cardset made up of contributions from various members of LeedsFurs and others in the UK furry fandom
+{
+  name: "Cards Against Britfurs",
+  language: "en",
+  author: "LeedsFurs",
+  "calls": [
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " - what can't they do?"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " and ",
+        {},
+        " caused the latest drama"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " and ",
+        {},
+        " make the best combination"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " and ",
+        {},
+        ": the Prime Minister's fursona."
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " is a fast-track to becoming staff!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " is good, but ",
+        {},
+        " is better!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " would never have happened if they'd let me combine ",
+        {},
+        " and",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "?! that's it, I'm leaving the fandom forever!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " AND ",
+        {},
+        "?!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " and ",
+        {},
+        " make the best furry convention"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " is the worst pizza topping."
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " was founded when ",
+        {},
+        " met ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " and ",
+        {},
+        " and ",
+        {},
+        ", OH MY!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " happened, we need a new venue."
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " 's kink is ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " + ",
+        {},
+        " = my fetish"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " makes me hard..."
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " me, Daddy"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " ruined the magic!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        " was cancelled. Why? Because ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        ": Does A Body Good"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "? Yes please!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        ": £200. ",
+        {
+          "transform": "Capitalize"
+        },
+        ": £150. ",
+        {
+          "transform": "Capitalize"
+        },
+        ": Priceless"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "! Somebody call an ambulance!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "! Woo-hoo!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        ", the latest fursuit game!"
+      ]
+    ],
+    [
+      [
+        {
+          "transform": "Capitalize"
+        },
+        ". Horny on main."
+      ]
+    ],
+    [
+      [
+        "#",
+        {},
+        " - Furry Approved!"
+      ]
+    ],
+    [
+      [
+        "6 ",
+        {},
+        " ,2 ",
+        {},
+        "and 1 ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "A fur was arrested at the train station last meet because they brought ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Animal Crossing: ",
+        {},
+        " Edition"
+      ]
+    ],
+    [
+      [
+        "Bad Dragon's orders exploded when they revealed their new toy would be called ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Can You Feel The ",
+        {},
+        " Tonight?"
+      ]
+    ],
+    [
+      [
+        "Come over here, and bring the ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Dragons really are ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Eat, Sleep, ",
+        {},
+        ", Repeat"
+      ]
+    ],
+    [
+      [
+        "For Comic Relief I did a sponsored ",
+        {},
+        ", I didn't raise too much..."
+      ]
+    ],
+    [
+      [
+        "Foxes like ",
+        {},
+        ", but werefoxes like ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Furries around the world lost their shit over ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Furries make ",
+        {},
+        " look acceptable."
+      ]
+    ],
+    [
+      [
+        "Fursuit walk cancelled due to ",
+        {},
+        " on the high street"
+      ]
+    ],
+    [
+      [
+        "Get to ",
+        {},
+        " by going via ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Grab ",
+        {},
+        " and ",
+        {},
+        ", go to the Winchester, wait for this all to blow over"
+      ]
+    ],
+    [
+      [
+        "GTA VI: ",
+        {},
+        " Edition"
+      ]
+    ],
+    [
+      [
+        "Harry Potter and the ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Hold my ",
+        {},
+        " and watch this!"
+      ]
+    ],
+    [
+      [
+        "How To Train Your ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I can't start my day without a daily dose of ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "I commissioned ",
+        {},
+        ", but I got ",
+        {},
+        " instead!"
+      ]
+    ],
+    [
+      [
+        "I don't RP, but I do enjoy ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I got banned from ",
+        {},
+        ". Why you ask? Because ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "I improvised some dungeon equipment out of ",
+        {},
+        " and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I just realised that ",
+        {},
+        " are ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "I like ",
+        {},
+        " because of ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I made my fursona by combining ",
+        {},
+        " and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I never knew I was into ",
+        {},
+        " until I found ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I once met a wolf who was always ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I sunk the party boat with ",
+        {},
+        " and ",
+        {},
+        "..."
+      ]
+    ],
+    [
+      [
+        "I was a fox until ",
+        {},
+        " got involved"
+      ]
+    ],
+    [
+      [
+        "I was horrified when I found ",
+        {},
+        " in the bottom of Mum and Dad's wardrobe"
+      ]
+    ],
+    [
+      [
+        "I was hospitalised for drinking too much ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I was sent to the naughty step for ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I was staff and all I got was this lousy ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I went back in time to ensure ",
+        {},
+        " never happened"
+      ]
+    ],
+    [
+      [
+        "I went to the furcon and all I got was ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "I'm as happy as a ",
+        {},
+        " in ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "If you happen to find ",
+        {},
+        ", please return it to ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "In order to protect against ",
+        {},
+        ", furries turned to using ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Is that a ",
+        {},
+        " in your pocket? Or are you just happy to see me?"
+      ]
+    ],
+    [
+      [
+        "Last time I went to the meet I ate a ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Lord of the ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Lynxes are only good for ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Milkshakes unavailable due to ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Mistaking ",
+        {},
+        " for ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Monty Python and the ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "My eyes needed bleach when I saw ",
+        {},
+        " at the convention"
+      ]
+    ],
+    [
+      [
+        "My innocent mind was blown when I discovered ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "My latest drunk escapade involved ",
+        {},
+        " and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Newsflash! Parliament just banned ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "No ",
+        {},
+        " like ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "No furmeet is complete without ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Normies invaded the furmeet venue and we brought out the ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Oh crap! I accidentally sent ",
+        {},
+        " to the Telegram chat"
+      ]
+    ],
+    [
+      [
+        "On the way to the con, Customs confiscated my ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Our new furmeet mascot is ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "OwO, what's this?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Peace between Yorkshire and Lancashire was eventually established by ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Quick,  ",
+        {},
+        " are coming!"
+      ]
+    ],
+    [
+      [
+        "Quick! We need more ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "Rub my ",
+        {},
+        "?"
+      ]
+    ],
+    [
+      [
+        "Rule Change!!  ",
+        {
+          "transform": "Capitalize"
+        },
+        " is now banned"
+      ]
+    ],
+    [
+      [
+        "So, ",
+        {},
+        " just happened"
+      ]
+    ],
+    [
+      [
+        "Something you shouldn't do in fursuit"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "The best dungeon has rope, paddles, a cage and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The best furry cocktails are made by combining ",
+        {},
+        " and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The birthday party was ruined by the introduction of ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The bouncy castle deflated because of ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The DnD session took a turn for the worse when the GM introduced ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The easiest way to get banned from the group chat."
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "The fursuit walk was cancelled due to ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The light at the end of the tunnel is the light of an oncoming ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The staff had to have a chat with me after ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The next con is ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The Pinkest ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The room party took an odd turn when someone turned up with ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The thing I'll remember about my first furmeet was ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "The worst thing to apply Rule 34 to"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "They say you can fit ",
+        {},
+        " in a fox"
+      ]
+    ],
+    [
+      [
+        "This train is delayed due to ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "This year's SuperSponsor gifts: ",
+        {},
+        ", ",
+        {},
+        " and ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Uncle Kage ran out of wine. ",
+        {
+          "transform": "Capitalize"
+        },
+        " happened."
+      ]
+    ],
+    [
+      [
+        "UwU *notices ur ",
+        {},
+        "*"
+      ]
+    ],
+    [
+      [
+        "Wanna get me weak at the knees? Just call me ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "We were all shocked when ",
+        {},
+        " was spelled out on Countdown last night."
+      ]
+    ],
+    [
+      [
+        "Weirdest thing found in the Lost Property box after the meet?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What brought the livestream to a halt?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What can I say except, ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "What did Hitler do on his vacation ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "What did I buy in the Art Show this year?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What did I find in the closet?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What did we pull out of the otter?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What do German Shepherds love the most?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What does the fox say?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What is ",
+        {},
+        "? We just don't know"
+      ]
+    ],
+    [
+      [
+        "I'm not sure which is hotter -  ",
+        {},
+        " or ",
+        {},
+        "?"
+      ]
+    ],
+    [
+      [
+        "What IS that smell?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What just did me a frighten?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What made me go ARRRRRRRRRRRRRRRGH!!! today?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What made me late for work today?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What makes me moist?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What was found in the ball pit?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What was I caught doing in the Art Show?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What will make me lift my tail?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What would go well in a Yorkshire Pudding wrap?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What's behind the door of Room 366?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What's in my basement?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "What's the worst thing that can happen at a furmeet?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "When everything was cancelled, furries resorted to ",
+        {},
+        " to entertain themselves"
+      ]
+    ],
+    [
+      [
+        "When I was younger, I found ",
+        {},
+        " weirdly attractive"
+      ]
+    ],
+    [
+      [
+        "Where is the changing area?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Who's a good boy?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why are YOU wet?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why did I get fined £350?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why did I get thrown out of the zoo?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why did I leave the room party early?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why do birds suddenly appear?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why do I drink?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why does ",
+        {},
+        " suck? Because ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "Why is my fursuit moist?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why is there ",
+        {},
+        " in my glass?"
+      ]
+    ],
+    [
+      [
+        "Why are the admins mad at the Telegram chat?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why was I late to the meet?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why was I walking funny coming out of the room party?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "Why were we thrown out of the shopping centre?"
+      ],
+      [
+        {
+          "transform": "Capitalize"
+        },
+        "."
+      ]
+    ],
+    [
+      [
+        "You can't go to a furmeet without ",
+        {},
+        ", ",
+        {},
+        " and ",
+        {},
+        ""
+      ]
+    ],
+    [
+      [
+        "You, me, ",
+        {},
+        ", NOW"
+      ]
+    ]
+  ],
+  "responses": [
+    "69",
+    "...and Knuckles",
+    "\"Cute\" Nazi's",
+    "*crinkle* *crinkle*",
+    "/accidentally/ breaking a vial of chlorine in a stairwell",
+    "< card intentionally left blank >",
+    "£350 awoo fine",
+    "10 furries performing a Satanic ritual",
+    "14 werewolves",
+    "A fancy coffee shop",
+    "2Gryphon",
+    "55 gallons of lube",
+    "700 litres of isopropyl alcohol",
+    "90s aesthetics",
+    "A baby fur who loves to twerk.",
+    "A big gulp of Mountain Dew Code Red",
+    "A big, thick, knot",
+    "A bigger, thicker, knot",
+    "A botched fursuit walk",
+    "A bowl of oatmeal",
+    "A brand new iPhone",
+    "A broken murrsuit zipper",
+    "A carefully cropped display picture",
+    "A cavalier attitude",
+    "A codpiece with your fursona's face on it",
+    "A collapsed fursuiter",
+    "A costly silicone sculpture",
+    "A crotchless thong",
+    "A DHGate fursuit",
+    "A DMCA issued by Cards Against Humanity",
+    "A fox",
+    "A furry version of a non-furry thing",
+    "A fursuit full of bees",
+    "A fursuit wearing underwear",
+    "A fursuiter but wearing latex",
+    "A gay pride flag",
+    "A good dicking",
+    "A green hedgehog",
+    "A Gregg's sausage and bean melt",
+    "A horse with a dog cock and a dog with a horse cock",
+    "A horse, with the head of a rabbit, and the body of a rabbit",
+    "A lynx",
+    "A McFlurry",
+    "A meat slinky",
+    "A Nazi fur who swears they aren't a Nazi.",
+    "A pair of fake breasts",
+    "A penis pushed up against hotel window",
+    "A Pink Puppy",
+    "A Pinker Puppy",
+    "A potato from Rio called Jose",
+    "A pup hood from WISH",
+    "A rubber gimp suit",
+    "A sergal cheesecake",
+    "A sergal that doesn't smell of cheese",
+    "A shock collar",
+    "A shrubbery",
+    "A sickly cloud of vape",
+    "A slow-motion car crash",
+    "A soggy diaper in the corner",
+    "A submissive wolf",
+    "A sudden absence of lube",
+    "A surfeit of wolves",
+    "A suspicious looking package",
+    "A swimming pool full of jizz",
+    "A tiger",
+    "A Tom Holland look-a-like",
+    "A top fox",
+    "A used nappy",
+    "A vegan burger",
+    "A vegan cupcake",
+    "A VR fursona",
+    "A White Christmas",
+    "AA Battery Controlled Telescopic Knife",
+    "Accidentally making chlorine gas in the stairwell of the Hyatt Regency O'Hare",
+    "Actually thinking that maws are better than paws",
+    "Actually thinking that paws are better than maws",
+    "Adolf Kitler",
+    "Aggressive dabbing",
+    "An in-joke you don't understand",
+    "An incredibly specific sticker that only you find funny",
+    "An otter on a waterslide",
+    "An out of tune piano",
+    "An SPH",
+    "An untitled message just saying \"hi\"",
+    "Anal prolapse",
+    "Anal-vore",
+    "Anne Widdecummies",
+    "Another bloody conversation about trains.",
+    "AnthroCon",
+    "Antlers",
+    "Anxiechee",
+    "Art theft",
+    "Asbestos",
+    "Atlas Brauhaus",
+    "Autofellatio",
+    "Awoo permit",
+    "The pub",
+    "Baby Furs",
+    "Banning",
+    "Fancy cocktail bars",
+    "Basing your food purchases on how hot the animal mascots are",
+    "Bathroom blowjobs",
+    "First Aid Kit",
+    "Bears",
+    "Beastars",
+    "Beating a mugger with a Chance XL",
+    "Being a furry",
+    "Being a tiger for you",
+    "Being confused for a snep",
+    "Being forced to eat dinner at Nando's... again",
+    "Being investigated by the National Crime Agency",
+    "Being locked in a fursuit",
+    "Being mistaken for a fox by the general public",
+    "Being nostalgic for trains which were objectively shit",
+    "Being really into trains",
+    "Being trapped in a fursuit",
+    "Being weirdly obsessive over airsoft",
+    "Big THROBBING Dog Dick",
+    "Blasting shitty music on a terrible Bluetooth speaker",
+    "Blubberfurs",
+    "Bluetooth speakers",
+    "Boner",
+    "Bonghits Jointson",
+    "Boom! Boom!",
+    "Boomers",
+    "Boozy Badger",
+    "Boris Johnson's sizable appendage",
+    "Bradford",
+    "Brexit",
+    "The high street",
+    "Bringing a pet animal to a furmeet",
+    "Bringing a rocket launcher to a furcon because it wasn't explicitly banned in the rules",
+    "BritFurs",
+    "Brushing the cum out of your fur",
+    "Brushing your damn suit",
+    "Buff lizardmen",
+    "Bukkake",
+    "c-OWO-navirus",
+    "CabinCon",
+    "Canal Street",
+    "Caramelldansen",
+    "Casual racism",
+    "Cats",
+    "Causing problems on purpose",
+    "Chance XL",
+    "Chance XL flared",
+    "Chance XL. Extra firm.",
+    "Chicago Winter Meet & Fuck",
+    "Circle Perch! Circle Perch! Circle Perch!",
+    "Class 142 Pacer",
+    "Cock",
+    "Cock transformation",
+    "Cock-vore",
+    "Con staff",
+    "ConFuzzled",
+    "Copyright law",
+    "Corey Coyote's $99 fascist mug",
+    "A sizeable fursuit collection",
+    "COVID-19",
+    "Coyotes",
+    "Crusty mursuits",
+    "Cub porn artists",
+    "Cum",
+    "Cum inflation",
+    "CUMMIES",
+    "Daddy",
+    "Darth Vader on helium",
+    "Dead orphans stuffed into a fursuit",
+    "Deleting games off your hard drive to make room for more furry smut",
+    "Denying you're a lewdy boi to your last breath",
+    "The banhammer",
+    "Dick Money House",
+    "Dicks",
+    "Diggy Diggy Hole",
+    "Doctor Who's third nipple",
+    "Doing a fursuit walk on a council estate",
+    "Donald Trump's fursona",
+    "Dragons fucking cars",
+    "Drama",
+    "Drawing furry porn for a living",
+    "Drinking cum straight from the tap",
+    "Drinking glowstick fluid",
+    "Driving from Berlin to England on a slashed tyre",
+    "Drowning in cum",
+    "Dutch Angel Dragons",
+    "Ed Wolf's trombone",
+    "Edwolf",
+    "Eggs",
+    "Emergency fursuit fund",
+    "Erotic pups",
+    "Even more trains",
+    "Extreme bondage",
+    "Extreme musk",
+    "FEEEESH",
+    "Filling up on bread",
+    "Filming yourself jerking it for horny furries",
+    "Finding fur in your drink",
+    "Finding jagged metal in your fursuit head",
+    "Forgetting to wipe the jizz stains from your fursuit",
+    "Fox Amoore",
+    "Fox Storage",
+    "Foxes",
+    "Foxler",
+    "Fucking",
+    "Fucking cars",
+    "Fucking furries",
+    "Furaffinity",
+    "FurCast",
+    "Furcation",
+    "Furious masturbation",
+    "FurIsle Con",
+    "Furries in tanks",
+    "Furries protesting innocence",
+    "Furry Jesus",
+    "Furry Twitter",
+    "Furry YouTube",
+    "Fursuit Friday",
+    "Fursuit rave",
+    "Fursuit sweat",
+    "Geordies",
+    "German Army Boots",
+    "Get blackout drunk and waking up in Scarbrough",
+    "Getting arrested for public indecency",
+    "Getting banned",
+    "Getting Brexit done",
+    "Getting caught perving on people changing in the fursuit lounge",
+    "Getting dicked over by the exchange rate when buying art from America",
+    "Getting furry business cards",
+    "Getting kicked out of the shopping centre",
+    "Getting married in fursuit",
+    "Getting your toes sucked off in a corner.",
+    "Giant Fox and Falco fucking a skyscraper",
+    "Gimps",
+    "Gunge",
+    "Hand-holding",
+    "Hate preachers",
+    "Having more hair than most",
+    "Having your sexual awakening to The Lion King",
+    "Hissing",
+    "Hitler baby",
+    "Horny on train",
+    "Horny stickers",
+    "Horse cock",
+    "Howlr",
+    "Humphrey Smith banning smartphones from your pub",
+    "Huskies",
+    "In-jokes",
+    "Inconspicuously perving on people changing in the fursuit lounge",
+    "Inserting your fetishes into everything",
+    "Introducing your family to Telegram",
+    "Jesus Fox",
+    "Jizz",
+    "Jizzing on the rug",
+    "Joining the Euro",
+    "Journalist for The Sun",
+    "Judy Hopps",
+    "Karen",
+    "Karen's collection of essential oils",
+    "Kero the Wolf",
+    "Knot Cheese",
+    "Knots",
+    "l a m p",
+    "Laynes Espresso",
+    "Leaving the fandom forever",
+    "Leeds",
+    "Pride Parades",
+    "The train station",
+    "Licking the floor by the bar",
+    "Lions",
+    "Literally an entire box of eggs",
+    "London",
+    "Long penises",
+    "Loud reggae",
+    "Loudly discussing how you intend to break the rules while in direct earshot of a staff member",
+    "Making sex noises over pizza",
+    "Malfunctioning walkie-talkies",
+    "Manchester",
+    "Masturbating in the art show",
+    "Masturbating to shark porn",
+    "Matt Lion",
+    "Maws",
+    "Swords",
+    "MidWest FurFest",
+    "MilesDF artwork",
+    "Minding the fap",
+    "Molesting Kage's wine",
+    "More eggs.",
+    "More trains",
+    "Motorfurs",
+    "Murr",
+    "Murrsuiting",
+    "My After Dark Twitter account",
+    "My crippling depression",
+    "My sexy VRChat avatar",
+    "My waifu",
+    "Nando's",
+    "NaziFurs",
+    "Nick Wilde",
+    "Nick Wilde's paws",
+    "Nicolas Cage from Face/Off in a fursuit",
+    "No vore!",
+    "Northern Trains",
+    "Northern Trains' Customer Service",
+    "Not being a furry",
+    "Not knowing what an appropriate volume is",
+    "Not letting anyone in public see your phone screen",
+    "Nudes",
+    "One extremely crusty unwashed fursuit",
+    "Otterspace",
+    "Over 9000 penises",
+    "Owls",
+    "Party time",
+    "Passing out on the fursuit walk",
+    "Paws",
+    "Paying hundreds of pounds for a furry number plate",
+    "Penis",
+    "Pepper Coyote",
+    "Pizza Hut",
+    "Planning your journey so you ride on specific types of train",
+    "Playing fast and loose with international copyright law",
+    "Pokémon-themed gimp suits",
+    "Poodling",
+    "Pooltoy furs",
+    "Popufurs",
+    "Primagens",
+    "Protogens",
+    "Punching a dog.",
+    "Pup hood discourse",
+    "Pups",
+    "Rawring",
+    "Raymond from Animal Crossing",
+    "RBW",
+    "Really good head",
+    "Receiving a DMCA strike against your fursona",
+    "Rejoining the fandom 5 minutes after leaving forever",
+    "Remembering the 21st night of September",
+    "Remembering when MUCKs were popular",
+    "Ripping off nipples at Animalz",
+    "Rizzo Rat",
+    "Roleplaying",
+    "Rubberfurs",
+    "Rule 34",
+    "Rule 63",
+    "Rutting",
+    "Samuel Smith's Nut Brown Ale",
+    "Sans Undertale",
+    "Scarborough Fair, but for degenerates",
+    "ScotiaCon",
+    "Scraping the top of your fursuit head on a low beam",
+    "Secretly wearing \"padding\" to the meet",
+    "Seitan meat substitute",
+    "Sending bobs and also vegana",
+    "Sending stickers in lieu of actually communicating",
+    "Sergals",
+    "Sharktits",
+    "Sheffield",
+    "Sheffield Furs",
+    "Shitting dicknipples",
+    "Showing off your underfluffies",
+    "Single-celled organisms",
+    "Slut dragons",
+    "Smelly wolves",
+    "Snep Excellence",
+    "Social distancing",
+    "Sonic the Hedgehog (2020 film)",
+    "Spaff",
+    "Sparkledogs!",
+    "Speedrunning getting banned",
+    "Spending money on art instead of rent",
+    "Spending more on your fursuit than your car",
+    "Spending thousands on Telegram stickers",
+    "Spending your Saturday writing suggestions for a mediocre party game",
+    "Spending your Universal Credit on furry porn",
+    "Spicing things up in the bedroom",
+    "Spunk",
+    "Stalin with a tail and ears",
+    "Sticker spam",
+    "Sticking a glowstick down your cock",
+    "Sticking a micro up your bum",
+    "Sticking furry decals on your car",
+    "Sticking one dildo down your throat and another up your bum till they kiss in the middle",
+    "Sticking your dick in the owl",
+    "Sticking your dick where you shouldn't",
+    "Stitchripper",
+    "Stonks",
+    "Strategically-placed holes",
+    "My cold, dead heart",
+    "Suspiciously Nazi-like aesthetics",
+    "Suspiciously sticky fur",
+    "Swapping suits",
+    "Swearing at another species in their language",
+    "Tail time",
+    "Taking a piss off the top of a church",
+    "Taking photos in the fursuit lounge",
+    "Taking the Gherkin building",
+    "Talking about trains AGAIN",
+    "Talking bullshit",
+    "Tennacious Vulpine",
+    "THAT fur",
+    "That lady who put the cat in the bin.",
+    "That smell",
+    "The 2014 MFF chlorine gas incident",
+    "The badger cull",
+    "Hi-vis jackets",
+    "The Cat's Strawberry",
+    "The Confederate Flag Fursuit",
+    "The creepy one nobody wants to sit next to.",
+    "The eighth rendition of Wonderwall on guitar",
+    "The entire Bad Dragon back catalogue",
+    "The Furluminati",
+    "The Furmasons",
+    "The fursuit walk",
+    "The futility of trying to argue with a furry",
+    "The Goose",
+    "The Hilton Birmingham Metropole",
+    "The inevitable heat death of a fursuiter in July",
+    "The inevitable uprising of every bot kicked from the Telegram group",
+    "The Intercity 125 High Speed Train",
+    "The Knot",
+    "The last brick of the Adam's Mark hotel",
+    "The legs of a maned wolf",
+    "The meet organisers",
+    "The Northern Furs Main Meet rotation",
+    "The Northern rail franchise",
+    "The OneFurAll waiting list",
+    "The Pope resigning before you get your fursuit",
+    "The rule saying a dog can't play basketball",
+    "The smouldering sexual tension between Lancashire and Yorkshire",
+    "The torture dungeon",
+    "The urge to spam stickers",
+    "The venue being turned into a cocktail bar.",
+    "The bar",
+    "Their huge ego",
+    "They/them pronouns",
+    "Thinking this was a good idea",
+    "Those bastard Manchester Furs",
+    "Tigers",
+    "Tits",
+    "Toilet paper shortage",
+    "A collection of novelty dildos",
+    "Too many Monster energy drinks before the walk.",
+    "Too many stickers!",
+    "Trains",
+    "Trans Rights Express",
+    "Transformation",
+    "Transforming into a pooltoy",
+    "Transforming into literal semen.",
+    "Transpennine Express",
+    "Trashcat",
+    "Travelling 6 hours drunk on a coach",
+    "The food court",
+    "Trying your hardest to be a wholesome wolf",
+    "Tuft-snipping",
+    "Tufts",
+    "Turning into a fursuit",
+    "Turning into your fursona",
+    "Turning yourself into a sex doll",
+    "Twitter",
+    "Unbirth",
+    "Uncle Kage",
+    "Uncle Kage's Wine",
+    "Uploading a virus to a Protogen",
+    "Vagina",
+    "Vegan milkshakes",
+    "Vegans",
+    "VRChat",
+    "Walking around with your cock out",
+    "Walking 25 miles for a furmeet",
+    "Wanding",
+    "Washing your damn suit",
+    "Watership Down",
+    "Way too many swords",
+    "Wearing \"military-accurate armour\"",
+    "Wearing a harness when you're not a sled dog",
+    "Wearing a jockstrap to the meet",
+    "Wearing a tail to work",
+    "Wee",
+    "Weird ASMR",
+    "Werewolf boyfriend",
+    "Wetherspoons",
+    "What the fox said",
+    "Wikifur",
+    "Wild North",
+    "Wilfully ignoring the well-documented misdeeds of a certain coyote",
+    "Woo-hoo",
+    "Working for a company you're not allowed to mention",
+    "Yeeting",
+    "Yeeting NaziFurs",
+    "Yiffing in the corner",
+    "Yiffing in the fursuit lounge",
+    "Yiffing in the toilets",
+    "York",
+    "Your colleagues finding your furry Twitter",
+    "Your doppelganger",
+    "Your parents finding out that you're a furry",
+    "YouTube"
+  ]
+}
