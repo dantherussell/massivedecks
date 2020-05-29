@@ -86,7 +86,7 @@
         // A built-in deck.
         source: "BuiltIn",
         // The id (filename without `.deck.json5`.
-        id: "cards-against-britfurs",
+        id: "cards-against-britfurs"
       },
       // {
       //   // A deck from JSON Against Humanity

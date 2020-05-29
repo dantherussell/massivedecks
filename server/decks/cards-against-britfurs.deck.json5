@@ -217,11 +217,11 @@
         {
           "transform": "Capitalize"
         },
-        ": £200. ",
+        ": £150. ",
         {
           "transform": "Capitalize"
         },
-        ": £150. ",
+        ": £300. ",
         {
           "transform": "Capitalize"
         },
@@ -384,7 +384,7 @@
     ],
     [
       [
-        "GTA VI: ",
+        "GTA V: ",
         {},
         " Edition"
       ]
@@ -603,13 +603,6 @@
     [
       [
         "Lynxes are only good for ",
-        {},
-        ""
-      ]
-    ],
-    [
-      [
-        "Milkshakes unavailable due to ",
         {},
         ""
       ]
@@ -842,13 +835,6 @@
     [
       [
         "The next con is ",
-        {},
-        ""
-      ]
-    ],
-    [
-      [
-        "The Pinkest ",
         {},
         ""
       ]
@@ -1402,7 +1388,6 @@
     "A fursuiter but wearing latex",
     "A gay pride flag",
     "A good dicking",
-    "A green hedgehog",
     "A Gregg's sausage and bean melt",
     "A horse with a dog cock and a dog with a horse cock",
     "A horse, with the head of a rabbit, and the body of a rabbit",
@@ -1412,8 +1397,6 @@
     "A Nazi fur who swears they aren't a Nazi.",
     "A pair of fake breasts",
     "A penis pushed up against hotel window",
-    "A Pink Puppy",
-    "A Pinker Puppy",
     "A potato from Rio called Jose",
     "A pup hood from WISH",
     "A rubber gimp suit",
@@ -1458,7 +1441,6 @@
     "Anxiechee",
     "Art theft",
     "Asbestos",
-    "Atlas Brauhaus",
     "Autofellatio",
     "Awoo permit",
     "The pub",
@@ -1492,11 +1474,10 @@
     "Boomers",
     "Boozy Badger",
     "Boris Johnson's sizable appendage",
-    "Bradford",
     "Brexit",
     "The high street",
     "Bringing a pet animal to a furmeet",
-    "Bringing a rocket launcher to a furcon because it wasn't explicitly banned in the rules",
+    "Bringing a rocket launcher to a con because it wasn't explicitly banned in the rules",
     "BritFurs",
     "Brushing the cum out of your fur",
     "Brushing your damn suit",
@@ -1521,6 +1502,7 @@
     "Con staff",
     "ConFuzzled",
     "Copyright law",
+    "Corey Coyote",
     "Corey Coyote's $99 fascist mug",
     "A sizeable fursuit collection",
     "COVID-19",
@@ -1586,7 +1568,6 @@
     "Fursuit sweat",
     "Geordies",
     "German Army Boots",
-    "Get blackout drunk and waking up in Scarbrough",
     "Getting arrested for public indecency",
     "Getting banned",
     "Getting Brexit done",
@@ -1605,6 +1586,7 @@
     "Having your sexual awakening to The Lion King",
     "Hissing",
     "Hitler baby",
+    "Horny on main",
     "Horny on train",
     "Horny stickers",
     "Horse cock",
@@ -1627,9 +1609,9 @@
     "Knot Cheese",
     "Knots",
     "l a m p",
-    "Laynes Espresso",
     "Leaving the fandom forever",
     "Leeds",
+    "LeedsFurs",
     "Pride Parades",
     "The train station",
     "Licking the floor by the bar",
@@ -1642,6 +1624,7 @@
     "Making sex noises over pizza",
     "Malfunctioning walkie-talkies",
     "Manchester",
+    "MancFurs",
     "Masturbating in the art show",
     "Masturbating to shark porn",
     "Matt Lion",
@@ -1666,8 +1649,8 @@
     "Nick Wilde's paws",
     "Nicolas Cage from Face/Off in a fursuit",
     "No vore!",
-    "Northern Trains",
-    "Northern Trains' Customer Service",
+    "Northern Rail",
+    "Northern Rail's Customer Service",
     "Not being a furry",
     "Not knowing what an appropriate volume is",
     "Not letting anyone in public see your phone screen",
@@ -1781,14 +1764,12 @@
     "The Goose",
     "The Hilton Birmingham Metropole",
     "The inevitable heat death of a fursuiter in July",
-    "The inevitable uprising of every bot kicked from the Telegram group",
     "The Intercity 125 High Speed Train",
     "The Knot",
     "The last brick of the Adam's Mark hotel",
     "The legs of a maned wolf",
     "The meet organisers",
     "The Northern Furs Main Meet rotation",
-    "The Northern rail franchise",
     "The OneFurAll waiting list",
     "The Pope resigning before you get your fursuit",
     "The rule saying a dog can't play basketball",
@@ -1857,6 +1838,7 @@
     "Yiffing in the fursuit lounge",
     "Yiffing in the toilets",
     "York",
+    "YorkFurs",
     "Your colleagues finding your furry Twitter",
     "Your doppelganger",
     "Your parents finding out that you're a furry",
