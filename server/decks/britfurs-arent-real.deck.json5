@@ -2,9 +2,9 @@
 // Concept used under a Creative Commons BY-NC-SA 2.0 license, https://creativecommons.org/licenses/by-nc-sa/2.0/
 // Custom cardset made up of contributions from various members of LeedsFurs and others in the UK furry fandom
 {
-  name: "Crimes Against Britfurs BASE PACK",
+  name: "BritFurs Aren't Real",
   language: "en",
-  author: "LeedsFurs and others",
+  author: "The UK Furry Fandom",
   "calls": [
     [
       [
@@ -168,14 +168,6 @@
           "transform": "Capitalize"
         },
         " makes me hard..."
-      ]
-    ],
-    [
-      [
-        {
-          "transform": "Capitalize"
-        },
-        " me, Daddy"
       ]
     ],
     [
@@ -755,7 +747,7 @@
     ],
     [
       [
-        "Something you shouldn't do in fursuit"
+        "Something you shouldn't do in fursuit: "
       ],
       [
         {
@@ -796,7 +788,7 @@
     ],
     [
       [
-        "The DnD session took a turn for the worse when the GM introduced ",
+        "The DnD session took a turn for the worse when the DM introduced ",
         {},
         ""
       ]
@@ -1398,7 +1390,7 @@
     "A meat slinky",
     "A Nazi fur who swears they aren't a Nazi.",
     "A pair of fake breasts",
-    "A penis pushed up against hotel window",
+    "A penis pushed up against a hotel window",
     "A \"modified\" plush toy",
     "A pup hood from WISH",
     "A rubber gimp suit",
@@ -1415,7 +1407,6 @@
     "A suspicious looking package",
     "A swimming pool full of jizz",
     "A tiger",
-    "A Tom Holland look-a-like",
     "A top fox",
     "A used nappy",
     "A vegan burger",
@@ -1447,6 +1438,7 @@
     "Awoo permit",
     "The pub",
     "Baby Furs",
+    "Baby Shark",
     "Banning",
     "Fancy cocktail bars",
     "Basing your food purchases on how hot the animal mascots are",
@@ -1510,7 +1502,7 @@
     "Corey Coyote's $99 fascist mug",
     "COVID-19",
     "Coyotes",
-    "Crusty mursuits",
+    "Crusty murrsuits",
     "Cub porn artists",
     "Cum",
     "Cum inflation",
